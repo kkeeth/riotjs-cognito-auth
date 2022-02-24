@@ -1,4 +1,4 @@
-# React Cognito Auth
+# RiotJS Cognito Auth
 
 A sample authentication app implemented with a server-less architecture, using Cognito User Pools, API Gateway, React and Redux.
 
@@ -10,9 +10,9 @@ Please see [here](https://github.com/ganezasan/serverless-cognito-auth) for how 
 
 ## set .env
 ```
-REACT_APP_USER_POOL_ID=xxxxx
-REACT_APP_CLIENT_ID=xxxxx
-REACT_APP_ENDPOINT=xxxxx
+RIOT_APP_USER_POOL_ID=xxxxx
+RIOT_APP_CLIENT_ID=xxxxx
+RIOT_APP_ENDPOINT=xxxxx
 ```
 
 ## install
